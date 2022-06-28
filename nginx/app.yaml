@@ -8,7 +8,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    repoURL: 'https://github.com/nameskc/avp-demo'
+    repoURL: 'https://github.com/namesjc/avp-demo'
     targetRevision: HEAD
     path: nginx/manifests
 
