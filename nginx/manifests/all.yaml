@@ -23,7 +23,7 @@ metadata:
   annotations:
 
     # Our special annotation to tell AVP where the secrets are
-    avp.kubernetes.io/path: "secret/jenkins/admin"
+    avp.kubernetes.io/path: "secret/data/jenkins/admin"
 stringData:
   MY_SECRET: <password>
 ---
